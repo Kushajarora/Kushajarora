@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kushaj Arora</h1>
 <h3 align="center">A passionate Machine Learning enthusiast from India</h3>
 
-- 🔭 I’m currently working on [Car resale value prediction](https://github.com/Kushajarora/Car-resale-value-prediction)
+<!-- - 🔭 I’m currently working on [Car resale value prediction](https://github.com/Kushajarora/Car-resale-value-prediction)
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **Tensorflow**-->
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kushajarora](https://github.com/Kushajarora)
 
